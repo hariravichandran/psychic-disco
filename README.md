@@ -6,11 +6,11 @@
 The files contained are as follows:
 - plot1.R (R file for Plot 1)
 - plot1.png (png file for Plot 1)
-- plot2.R (R file for Plot 1)
-- plot2.png (png file for Plot 1)
-- plot3.R (R file for Plot 1)
-- plot3.png (png file for Plot 1)
-- plot4.R (R file for Plot 1)
-- plot4.png (png file for Plot 1)
+- plot2.R (R file for Plot 2)
+- plot2.png (png file for Plot 2)
+- plot3.R (R file for Plot 3)
+- plot3.png (png file for Plot 3)
+- plot4.R (R file for Plot 4)
+- plot4.png (png file for Plot 4)
 
 I look forward to your feedback. Thanks for taking the time to review my project!
